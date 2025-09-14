@@ -1,8 +1,8 @@
 # Sistem-Manajemen-Daftar-Film-Berdasarkan-Genre
 
-Nama    : Ahmad Fajar Novia
-Kelas   : B
-NIM     : 2509116041
+<p> Nama    : Ahmad Fajar Novia </p>
+<p> Kelas   : B</p>
+<p> NIM     : 2509116041</p>
 
 
 Program ini berguna untuk mengelola daftar film melalui menu utama Pengguna yang dapat melihat daftar film dan genre, menampilkan detail informasi dalam setiap film , menambah film baru, hingga menghapus film yang sudah ada di dalam list film.
@@ -114,7 +114,7 @@ Kondisi jika Opsi 1 dipilih dan memasukkan pilihan yang sesuai <br/>
     - Pemeran <br/>
 > 4. kembali ke Menu <br/>
 
-<img width="405\" height="400" alt="image" src="https://github.com/user-attachments/assets/4c814e8b-ae51-4f10-9dd5-341f57d66f24" />
+<p> <img width="405\" height="400" alt="image" src="https://github.com/user-attachments/assets/4c814e8b-ae51-4f10-9dd5-341f57d66f24" /><p> 
 
 <p> ==================================================================================== <p>
 Kondisi jika Opsi 1 dipilih dan memasukkan pilihan yang tidak sesuai <br/>
@@ -122,7 +122,7 @@ Kondisi jika Opsi 1 dipilih dan memasukkan pilihan yang tidak sesuai <br/>
 > 2. Memasukkan Film atau Kata yang salah <br/>
 > 3. Sistem akan melihat bahwa anda salah menginput "Film tidak ditemukan!" <br/>
 
-<img width="400" height="400" alt="Screenshot 2025-09-14 142013" src="https://github.com/user-attachments/assets/2fb902a3-8e56-4a7a-b999-03a30bc798aa" />
+<p> <img width="400" height="400" alt="Screenshot 2025-09-14 142013" src="https://github.com/user-attachments/assets/2fb902a3-8e56-4a7a-b999-03a30bc798aa" /><p> 
 
 <p> ==================================================================================== <p>
 Kondisi jika memilih Opsi 2 <br/>
@@ -136,7 +136,7 @@ Kondisi jika memilih Opsi 2 <br/>
 > 8. Jika sudah semua maka Film sudah ditambahkan dan sistem akan membaca nya"Film berhasil ditambahkan!" <br/>
 > 9. Film bisa di lihat di Opsi 1 <br/>
 
-<img width="400" height="400" alt="Screenshot 2025-09-14 143357" src="https://github.com/user-attachments/assets/0486805f-055c-4c8b-8147-29f7d332a2c7" />
+<p> <img width="400" height="400" alt="Screenshot 2025-09-14 143357" src="https://github.com/user-attachments/assets/0486805f-055c-4c8b-8147-29f7d332a2c7" /><p> 
 
 <p> ==================================================================================== <p>
 Kondisi jika memilih Opsi 3 dan memasukkan film yang sesuai <br/>
@@ -146,7 +146,7 @@ Kondisi jika memilih Opsi 3 dan memasukkan film yang sesuai <br/>
 > 4. "Judul_Film berhasil dihapus!" <br/>
 > 5. Film bisa dilihat di Opsi 1 apakah sudah dihapus oleh sistem <br/>
 
-<img width="400" height="400" alt="Screenshot 2025-09-14 144024" src="https://github.com/user-attachments/assets/26831e97-d6ae-4a37-8369-8e422c33272a" />
+<p> <img width="400" height="400" alt="Screenshot 2025-09-14 144024" src="https://github.com/user-attachments/assets/26831e97-d6ae-4a37-8369-8e422c33272a" /><p> 
 
 <p> ==================================================================================== <p>
 Kondisi jika memilih Opsi 3 dan memasukkan film yang tidak sesuai <br/>
@@ -154,7 +154,7 @@ Kondisi jika memilih Opsi 3 dan memasukkan film yang tidak sesuai <br/>
 > 3. Sistem akan Melihat apakah film ada di dalam list jika Film tidak ada dilist <br/>
 > 4. "Film tidak ditemukan!" <br/>
 
-<img width="400" height="400" alt="Screenshot 2025-09-14 144627" src="https://github.com/user-attachments/assets/2d951257-4491-4f51-a5d1-f65fe65976f1" />
+<p> <img width="400" height="400" alt="Screenshot 2025-09-14 144627" src="https://github.com/user-attachments/assets/2d951257-4491-4f51-a5d1-f65fe65976f1" /><p> 
 
 <p> ==================================================================================== <p>
 Kondisi jika memlih Opsi 4 <br/>
@@ -162,7 +162,7 @@ Kondisi jika memlih Opsi 4 <br/>
 > 2. sistem akan menyelesaikan sistem <br/>
 > 3. "Selesai"<br/>
 
-<img width="400" height="400" alt="Screenshot 2025-09-14 184114" src="https://github.com/user-attachments/assets/1ddff211-ca5c-4380-a583-07a92ba2bd03" />
+<p> <img width="400" height="400" alt="Screenshot 2025-09-14 184114" src="https://github.com/user-attachments/assets/1ddff211-ca5c-4380-a583-07a92ba2bd03" /><p> 
 
 <p> ==================================================================================== <p>
 Kondisi jika tidak memilih opsi (1-4) <br/>
@@ -170,7 +170,7 @@ Kondisi jika tidak memilih opsi (1-4) <br/>
 > 2. Maka akan terjadi "Pilihan tidak valid!"<br/>
 > 3. kembali ke menu utama <br/>
     
-<img width="400" height="400" alt="Screenshot 2025-09-14 192640" src="https://github.com/user-attachments/assets/ed95e970-2133-476b-98f9-da531f809d40" />
+<p> <img width="400" height="400" alt="Screenshot 2025-09-14 192640" src="https://github.com/user-attachments/assets/ed95e970-2133-476b-98f9-da531f809d40" /><p> 
 
 <p> ==================================================================================== <p>
 <b> WE ARE THE CHAMPION MY FRIEND </b>
