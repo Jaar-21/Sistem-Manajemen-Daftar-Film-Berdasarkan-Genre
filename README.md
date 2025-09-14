@@ -1,7 +1,11 @@
 # Sistem-Manajemen-Daftar-Film-Berdasarkan-Genre
+Program ini berguna untuk mengelola daftar film melalui menu utama Pengguna yang dapat melihat daftar film berdasarkan genre, menampilkan film-film terlaris, menambah film baru, serta menampilkan detail informasi setiap film.
 
 
+FLOWCHART
+<img width="1231" height="1152" alt="Flow" src="https://github.com/user-attachments/assets/bb4685f6-2302-4976-803c-a6ad87e38c7c" />
 
+CODE
 ```python
 film_data = {
     "Action": [
