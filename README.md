@@ -146,7 +146,7 @@ Kondisi jika memilih Opsi 3 dan memasukkan film yang sesuai <br/>
 > 4. "Judul_Film berhasil dihapus!" <br/>
 > 5. Film bisa dilihat di Opsi 1 apakah sudah dihapus oleh sistem <br/>
 
-<img width="602" height="639" alt="Screenshot 2025-09-14 144024" src="https://github.com/user-attachments/assets/26831e97-d6ae-4a37-8369-8e422c33272a" />
+<img width="400" height="400" alt="Screenshot 2025-09-14 144024" src="https://github.com/user-attachments/assets/26831e97-d6ae-4a37-8369-8e422c33272a" />
 
 <p> ==================================================================================== <p>
 Kondisi jika memilih Opsi 3 dan memasukkan film yang tidak sesuai <br/>
@@ -154,7 +154,7 @@ Kondisi jika memilih Opsi 3 dan memasukkan film yang tidak sesuai <br/>
 > 3. Sistem akan Melihat apakah film ada di dalam list jika Film tidak ada dilist <br/>
 > 4. "Film tidak ditemukan!" <br/>
 
-<img width="625" height="445" alt="Screenshot 2025-09-14 144627" src="https://github.com/user-attachments/assets/2d951257-4491-4f51-a5d1-f65fe65976f1" />
+<img width="400" height="400" alt="Screenshot 2025-09-14 144627" src="https://github.com/user-attachments/assets/2d951257-4491-4f51-a5d1-f65fe65976f1" />
 
 <p> ==================================================================================== <p>
 Kondisi jika memlih Opsi 4 <br/>
@@ -162,7 +162,7 @@ Kondisi jika memlih Opsi 4 <br/>
 > 2. sistem akan menyelesaikan sistem <br/>
 > 3. "Selesai"<br/>
 
-<img width="689" height="198" alt="Screenshot 2025-09-14 184114" src="https://github.com/user-attachments/assets/1ddff211-ca5c-4380-a583-07a92ba2bd03" />
+<img width="400" height="400" alt="Screenshot 2025-09-14 184114" src="https://github.com/user-attachments/assets/1ddff211-ca5c-4380-a583-07a92ba2bd03" />
 
 <p> ==================================================================================== <p>
 Kondisi jika tidak memilih opsi (1-4) <br/>
@@ -170,7 +170,7 @@ Kondisi jika tidak memilih opsi (1-4) <br/>
 > 2. Maka akan terjadi "Pilihan tidak valid!"<br/>
 > 3. kembali ke menu utama <br/>
     
-<img width="554" height="462" alt="Screenshot 2025-09-14 192640" src="https://github.com/user-attachments/assets/ed95e970-2133-476b-98f9-da531f809d40" />
+<img width="400" height="400" alt="Screenshot 2025-09-14 192640" src="https://github.com/user-attachments/assets/ed95e970-2133-476b-98f9-da531f809d40" />
 
 <p> ==================================================================================== <p>
-
+<b> WE ARE THE CHAMPION MY FRIEND </b>
