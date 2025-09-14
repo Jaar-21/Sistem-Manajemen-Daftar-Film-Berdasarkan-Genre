@@ -1,12 +1,34 @@
 # Sistem-Manajemen-Daftar-Film-Berdasarkan-Genre
-Program ini berguna untuk mengelola daftar film melalui menu utama Pengguna yang dapat melihat daftar film berdasarkan genre, menampilkan film-film terlaris, menambah film baru, serta menampilkan detail informasi setiap film.
 
-<img width="1231" height="952" alt="Flowchart Ahmad Fajar" src="https://github.com/user-attachments/assets/84a615bd-e3e8-46a1-8b7a-1e18b03e7dcd" />
+Nama    : Ahmad Fajar Novia
+Kelas   : B
+NIM     : 2509116041
 
-FLOWCHART
 
+Program ini berguna untuk mengelola daftar film melalui menu utama Pengguna yang dapat melihat daftar film dan genre, menampilkan detail informasi dalam setiap film , menambah film baru, hingga menghapus film yang sudah ada di dalam list film.
 
-CODE
+<p> ==================================================================================== <p>
+
+1. FLOWCHART
+<img width="1270" height="1212" alt="Ahmad Fajar drawio (1)" src="https://github.com/user-attachments/assets/65a0088f-fadb-4327-840b-fa943ac7a837" />
+
+<p> ==================================================================================== <p>
+
+<br/>===>dalam sistem ini ada mempunyai 4 menu utama yaitu menu 1 adalah Lihat Film, menu 2 adalah Tambah film, Menu 3 adalah Hapus Film dan menu 4/terakhir adalah Keluar. <===<br/>
+
+<1> Yang pertama input 1 untuk masuk ke Menu "Lihat Film" kemudian jika anda ingin melihat detail film maka ketik film yang sudah ada didalam list film dan jika ada salah penulisan maka akan menampilkan "Film tidak ditemukan" dan kembali ke menu utama. <br/>
+
+<2> kemudian Input 2 untuk masuk ke menu "Tambah Film" lalu menginput mulai dari judul, genre, pembuat, sinopsis, tanggal rilis, dan pemeran jika sudah maka nanti sistem akan menambahkan ke dalam list film dan memunculkan output "Film berhasil ditambahkan". Masuk ke menu 1 untuk melihat apakah film sudah ditambahkan. <br/>
+
+<3> lalu input 3 untuk masuk ke menu "Hapus film" kemudian Masukkan judul film yang ingin dihapus yang ada didalam list film kemudian sistem akan menghapus film dan jangan sampai ada salah ketikan, jika salah maka sistem tidak akan menghapus lalu output nya "Film tidak ditemukan!" dan kembali ke menu utama. <br/>
+
+<4> Kemudian Input 4 untuk Keluar ----selesai<br/>
+<?> Jika Menginput bukan 1-4 maka "Pilihan tidak valid!" dan kembali ke menu utama <br/>
+
+<p> ==================================================================================== <p>
+
+2. CODE
+
 ```python
 film_list = [
     ("Avengers Endgame", "Action", "Marvel Studio", "Pertarungan melawan Thanos.", "2019-04-26", "Robert Downey Jr, Chris Evans"),
@@ -135,3 +157,20 @@ Kondisi jika memilih Opsi 3 dan memasukkan film yang tidak sesuai <br/>
 <img width="625" height="445" alt="Screenshot 2025-09-14 144627" src="https://github.com/user-attachments/assets/2d951257-4491-4f51-a5d1-f65fe65976f1" />
 
 <p> ==================================================================================== <p>
+Kondisi jika memlih Opsi 4 <br/>
+> 1. Input nlai 4 <br/>
+> 2. sistem akan menyelesaikan sistem <br/>
+> 3. "Selesai"<br/>
+
+<img width="689" height="198" alt="Screenshot 2025-09-14 184114" src="https://github.com/user-attachments/assets/1ddff211-ca5c-4380-a583-07a92ba2bd03" />
+
+<p> ==================================================================================== <p>
+Kondisi jika tidak memilih opsi (1-4) <br/>
+> 1. Masukkan opsi angka atau kata yang salah<br/>
+> 2. Maka akan terjadi "Pilihan tidak valid!"<br/>
+> 3. kembali ke menu utama <br/>
+    
+<img width="554" height="462" alt="Screenshot 2025-09-14 192640" src="https://github.com/user-attachments/assets/ed95e970-2133-476b-98f9-da531f809d40" />
+
+<p> ==================================================================================== <p>
+
